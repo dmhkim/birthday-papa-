@@ -1,0 +1,42 @@
+html {
+  background-color: #d29874;
+}
+
+body {
+  margin: 15px;
+}
+
+.container {
+  font-family: "Tangerine", cursive;
+  background-color: #ebc4ad;
+  box-shadow: 2px 2px 8px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 88vh;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+}
+
+.along {
+  font-size: 33px;
+  font-weight: 700;
+  margin: 0;
+}
+
+button {
+  padding: 6px;
+  font-size: 14px;
+  border-radius: 8px;
+  font-family: "Poppins", sans-serif;
+  background-color: #e5f5ff;
+}
+
+.tag {
+  font-family: "Sacramento", cursive;
+}
